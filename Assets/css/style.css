@@ -511,6 +511,11 @@ section {
     padding-bottom: 130px;
 }
 
+.container {
+    width: 100%;
+    margin: auto;
+}
+
 .contact .info {
     padding: 30px;
     background: #fff;
@@ -690,8 +695,10 @@ section {
 }
 
 .contact-col {
-    flex-basis: 48%;
+    flex-basis: 50%;
     margin-bottom: 30px;
+    margin-top: 30px;
+    align-items: center;
 }
 
 .contact-col div {
