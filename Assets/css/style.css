@@ -204,7 +204,10 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-    color: #fff;
+    color: rgba(255, 255, 255, 0.575);
+    padding: 10px;
+    background: #dd8d1491;
+    border-radius: 2px;
 }
 
 .mobile-nav-active {
