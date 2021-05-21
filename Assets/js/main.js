@@ -186,6 +186,7 @@
 
 })(jQuery);
 
+//Form handling
 document.querySelector("#contactForm").addEventListener("submit", handleSubmit);
 
 function processSubmission(formData, myForm) {
